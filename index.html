@@ -6,30 +6,15 @@
     <title>Unity WebGL Player | NFT Web XR Gallery</title>
     <meta name="description" content="">
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script>
-        var wallet = new URLSearchParams(window.location.search).get('wallet');
-        if (wallet != null) {
-            document.querySelector('#walletid').value = wallet;
-            document.querySelector('#policyselector').value = null;
-            document.title = "Cardano NFT Gallery - wallet " + document.querySelector('#walletid').value = wallet;
-        }
-        else {
-            var policy = new URLSearchParams(window.location.search).get('policy');
-            if (policy != null) {
-                document.querySelector('#policyselector').value = policy;
-            }
-            document.title = "Cardano NFT Gallery - " + document.querySelector('#policyselector').text;
-        }
-    </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P66SQ27CVW"></script>
+    <link rel="stylesheet" href="TemplateData/style.css">    
+    <!-- Global site tag (gtag.js) - Google Analytics -->    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PBMVQ8GV9B"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-P66SQ27CVW');
+        gtag('config', 'G-PBMVQ8GV9B');
     </script>
 </head>
   <body>
@@ -77,11 +62,11 @@
     </div>
     <script>
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/nftxrgallery.loader.js";
+      var loaderUrl = buildUrl + "/cnftgallery.loader.js";
       var config = {
-        dataUrl: buildUrl + "/nftxrgallery.data.unityweb",
-        frameworkUrl: buildUrl + "/nftxrgallery.framework.js.unityweb",
-        codeUrl: buildUrl + "/nftxrgallery.wasm.unityweb",
+        dataUrl: buildUrl + "/cnftgallery.data.unityweb",
+        frameworkUrl: buildUrl + "/cnftgallery.framework.js.unityweb",
+        codeUrl: buildUrl + "/cnftgallery.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "NFT Web XR Gallery",
@@ -95,9 +80,21 @@
       var progressBarFull = document.querySelector("#unity-progress-bar-full");
         var fullscreenButton = document.querySelector("#unity-fullscreen-button");        
       var unityInstance = null;
-             
-      
-      
+         
+        
+        var wallet = new URLSearchParams(window.location.search).get('wallet');
+        if (wallet != null) {
+            document.querySelector('#walletid').value = wallet;
+            document.querySelector('#policyselector').value = null;
+            document.title = "Cardano NFT Gallery - wallet " + document.querySelector('#walletid').value;
+        }
+        else {
+            var policy = new URLSearchParams(window.location.search).get('policy');
+            if (policy != null) {
+                document.querySelector('#policyselector').value = policy;
+            }
+            document.title = "Cardano NFT Gallery - " + document.querySelector('#policyselector').options[document.querySelector('#policyselector').selectedIndex].text;
+        }
 
       canvasContainer.style.width = "500px";
       canvasContainer.style.height = "800px";
