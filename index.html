@@ -93,7 +93,7 @@
             if (policy != null) {
                 document.querySelector('#policyselector').value = policy;
             }
-            document.title = "Cardano NFT Gallery - " + document.querySelector('#policyselector').options[document.querySelector('#policyselector').selectedIndex].text;
+            document.title = "Cardano NFT Gallery - " + document.querySelector('#policyselector').options[document.querySelector('#policyselector').selectedIndex]?.text;
         }
 
       canvasContainer.style.width = "500px";
