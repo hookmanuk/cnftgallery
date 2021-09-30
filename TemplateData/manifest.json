@@ -48,6 +48,12 @@
       "sizes": "512x512",
       "type": "image\/png",
       "density": "6.0"
+    },
+    {
+      "src": "TemplateData\/maskable-icon.png",
+      "sizes": "130x130",
+      "type": "image\/png",
+      "purpose": "any maskable"
     }
   ]
 }
