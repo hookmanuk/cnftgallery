@@ -30,7 +30,7 @@ workbox.routing.registerRoute(
 
 // Cache images with a Cache First strategy
 workbox.routing.registerRoute(
-     // Check to see if the request's destination is style for items to cache, not wallet assets!
+    // Check to see if the request's destination is style for items to cache, not wallet assets!
     ({ request }) =>
         request.url.startsWith("https://hookmanstatic.blob.core.windows.net/nftgallery/storage/")
         || request.url.startsWith("https://cardano-mainnet.blockfrost.io/api/v0/assets/")
