@@ -1,113 +1,109 @@
 {
 	"description" : "Minted on the blockchain with specific skills and abilities to improve the world and the Cardano ecosystem.",
-	"assets": [
+"assets": [
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 1"
+			"filename" : "Cyberiada-1.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 2"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 3"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 4"
+			"filename" : "Moneda-4.jpg",
+			"text": "Moneda"
 		},		
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Missing"
+			"filename" : "Destiny-6.jpg",
+			"text": "Destiny"
+		},				
+		{
+			"filename" : "Cyberiada-4.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 5"
+			"filename" : "Moneda-7.jpg",
+			"text": "Moneda"
+		},		
+		{
+			"filename" : "Cyberiada-5.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 6"
+			"filename" : "Moneda-2.jpg",
+			"text": "Moneda"
+		},
+{
+			"filename" : "Destiny-5.jpg",
+			"text": "Destiny"
+		},				
+		{
+			"filename" : "Proxies_Specials-Cyberiada.jpg",
+			"text": "Proxies Specials Cyberiada Sold at Dream Space Auction for 400 ₳"
+		}		,
+		{
+			"filename" : "Destiny-1.jpg",
+			"text": "Destiny"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 7"
+			"filename" : "Moneda-6.jpg",
+			"text": "Moneda"
+		},		
+		{
+			"filename" : "Cyberiada-2.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 8"
+			"filename" : "Destiny-4.jpg",
+			"text": "Destiny"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 9"
+			"filename" : "hookman-corner-banner.jpg",
+			"text": ""
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 10"
+			"filename" : "Cyberiada-7.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 11"
+			"filename" : "Cyberiada-3.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 12"
-		},
-		{			
-			"filename" : "01Destiny Special 1.png",
-			"text": "Missing"
+			"filename" : "DestinySpecials01.jpg",
+			"text": "Destiny Specials #1 Sold at Auction for 169 ₳"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 13"
+			"filename" : "Moneda-1.jpg",
+			"text": "Moneda"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 14"
+			"filename" : "Cyberiada-6.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 15"
+			"filename" : "Moneda-3.png",
+			"text": "Moneda"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 16"
+			"filename" : "Destiny-3.jpg",
+			"text": "Destiny"
+		},	
+		{
+			"filename" : "Moneda-5.jpg",
+			"text": "Moneda"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 17"
+			"filename" : "Destiny-2.jpg",
+			"text": "Destiny"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 18"
+			"filename" : "Cyberiada-5.jpg",
+			"text": "Cyberiada"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 19"
+			"filename" : "Moneda-8.jpg",
+			"text": "Moneda"
 		},
 		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 20"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Missing"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 21"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 22"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 23"
-		},
-		{
-			"filename" : "01Destiny Special 1.png",
-			"text": "Destiny Special 24"
+			"filename" : "Destiny-feature.jpeg",
+			"text": "Destiny"
 		}
 	]	
 }
