@@ -18,16 +18,16 @@
 			"text": "5AMAlchemy - The Peninsula 020"
 		},		
 		{
-			"filename" : "acidhead.png",
-			"text": "Acid Head Core Comic"
+			"filename" : "sal418.jpg",
+			"text": "Sal Art 418"
 		},
 		{
 			"filename" : "drip.png",
 			"text": "Drip by Giordana Ziccardi"
 		},		
 		{
-			"filename" : "entheos.jpg",
-			"text": "Entheos Epoch 2 - 244197"
+			"filename" : "adagalaxies.png",
+			"text": "Ada Galaxies"
 		},
 		{
 			"filename" : "deadpool.png",
@@ -38,36 +38,36 @@
 			"text": "Deep Vision"
 		},
 		{
-			"filename" : "pandorea.jpg",
-			"text": "Pandorea Pioneer Iridescent"
+			"filename" : "fractoid318.png",
+			"text": "Fractoid #318"
 		},		
 		{
 			"filename" : "entheosnaut.jpg",
 			"text": "Entheos Naut"
 		},
 		{
-			"filename" : "CardanoPics x Gaming.jpg",
-			"text": "CardanoPics x Gaming"
+			"filename" : "acidhead.png",
+			"text": "Acid Head Core Comic"
 		},		
 		{
 			"filename" : "fearandcloning.jpg",
 			"text": "ADAliens - Fear and Cloning"
 		},
 		{
-			"filename" : "fractoid318.png",
-			"text": "Fractoid #318"
+			"filename" : "pandorea.jpg",
+			"text": "Pandorea Pioneer Iridescent"
 		},		
 		{
 			"filename" : "specimen13.jpg",
 			"text": "ADAliens - Specimen 13"
 		},
 		{
-			"filename" : "flatfish.jpg",
-			"text": "autre coeur - flatfish"
+			"filename" : "unsig.png",
+			"text": "Unsigned Algorithms"
 		},
 		{
-			"filename" : "rainborg.png",
-			"text": "Rainborg - Regalia"
+			"filename" : "cyberiada.png",
+			"text": "Cyberiada Proxie"
 		},
 		{
 			"filename" : "euphoria.jpg",
@@ -104,6 +104,11 @@
 		{
 			"filename" : "3dfractal51.jpg",
 			"text": "3D Fractal #51"
+		},
+		{
+			"filename" : "pandoreasphere.jpg",
+			"text": "",
+			"issphere": true
 		}
-	]	
+	]
 }
