@@ -1,0 +1,114 @@
+{
+	"description" : "Artworks curated by Hookman, based on NFTs purchased",
+	"assets": [
+		{
+			"filename" : "starconsumer.jpg",
+			"text": "ADAliens - Star Consumer"
+		},
+		{
+			"filename" : "sal418.jpg",
+			"text": "Sal Art 418"
+		},
+		{
+			"filename" : "depthandlight.jpg",
+			"text": "autre coeur - depth and light"
+		},
+		{
+			"filename" : "peninsula.jpg",
+			"text": "5AMAlchemy - The Peninsula 020"
+		},		
+		{
+			"filename" : "awoken780-goat.png",
+			"text": "Aw0k3n Goat"
+		},
+		{
+			"filename" : "drip.png",
+			"text": "Drip by Giordana Ziccardi"
+		},		
+		{
+			"filename" : "adagalaxies.png",
+			"text": "Ada Galaxies"
+		},
+		{
+			"filename" : "deadpool.png",
+			"text": "Deadpool"
+		},
+		{
+			"filename" : "deepvision.png",
+			"text": "Deep Vision"
+		},
+		{
+			"filename" : "fractoid318.png",
+			"text": "Fractoid #318"
+		},		
+		{
+			"filename" : "entheosnaut.jpg",
+			"text": "Entheos Naut"
+		},
+		{
+			"filename" : "acidhead.png",
+			"text": "Acid Head Core Comic"
+		},		
+		{
+			"filename" : "fearandcloning.jpg",
+			"text": "ADAliens - Fear and Cloning"
+		},
+		{
+			"filename" : "pandorea.jpg",
+			"text": "Pandorea Pioneer Iridescent"
+		},		
+		{
+			"filename" : "specimen13.jpg",
+			"text": "ADAliens - Specimen 13"
+		},
+		{
+			"filename" : "unsig.png",
+			"text": "Unsigned Algorithms"
+		},
+		{
+			"filename" : "cyberiada.png",
+			"text": "Cyberiada Proxie"
+		},
+		{
+			"filename" : "euphoria.jpg",
+			"text": "Atreyu - Euphoria"
+		},
+		{
+			"filename" : "molten.jpg",
+			"text": "Steve3p_0 Molten"
+		},		
+		{
+			"filename" : "alice.png",
+			"text": "The Lost Ladies - Alice"
+		},
+		{
+			"filename" : "ariel.png",
+			"text": "Adaz - Ariel"
+		},		
+		{
+			"filename" : "passion.png",
+			"text": "Love in the Metaverse - Passion.APP"
+		},		
+		{			
+			"filename" : "avatar.png",
+			"text": "unsigned_alchemy - Avatar"
+		},
+		{
+			"filename" : "fractoid496.png",
+			"text": "Fractoid #496"
+		},		
+		{
+			"filename" : "3dfractal38.jpg",
+			"text": "3D fractal #38"
+		},		
+		{
+			"filename" : "3dfractal51.jpg",
+			"text": "3D Fractal #51"
+		},
+		{
+			"filename" : "pandoreasphere.jpg",
+			"text": "",
+			"issphere": true
+		}
+	]
+}
